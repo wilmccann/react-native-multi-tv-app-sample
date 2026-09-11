@@ -1,0 +1,13 @@
+{
+  "project": {
+    "identifier": "react-native-multi-tv-app-sample"
+  },
+  "platform": {
+    "default": "fire_os",
+    "paths": {
+      "apps/expo-multi-tv/": "fire_os",
+      "apps/vega/": "vega_os",
+      "packages/shared-ui/": "both"
+    }
+  }
+}
