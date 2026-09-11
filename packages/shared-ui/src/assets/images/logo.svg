@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="100%" height="100%">
+  <!-- Deep Navy Container (LinkedIn Profile Icon) -->
+  <rect width="300" height="300" rx="50" fill="#0F172A"/>
+  
+  <g transform="translate(65, 65)">
+    <!-- Dark Slate/Navy 'FT' Base -->
+    <path d="M 10 20 L 70 20 L 70 45 L 38 45 L 38 75 L 65 75 L 65 100 L 38 100 L 38 160 L 10 160 Z" fill="#FFFFFF"/>
+    <path d="M 85 45 L 112 45 L 112 160 L 140 160 L 140 45 L 165 45 L 165 20 L 85 20 Z" fill="#FFFFFF"/>
+    
+    <!-- Electric Blue Dynamic Swoop & Arrow -->
+    <path d="M 25 125 C 65 115, 115 85, 140 40 L 130 35 L 165 25 L 160 60 L 148 50 C 125 90, 75 125, 25 138 Z" fill="#0EA5E9"/>
+  </g>
+</svg>
